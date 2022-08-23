@@ -1,1 +1,1 @@
-https://husan-fitness.netlify.app
+https://my-fitnessapp.netlify.app
